@@ -23,5 +23,5 @@ function dec(n){
 }
 
 function makeInt(n){
-  par
+  parseInt(n);
 }
